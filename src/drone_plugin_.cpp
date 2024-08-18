@@ -90,7 +90,7 @@ public:
 
   double calculateTorque(double w) ;
 
-  void OnContact1Update(ConstContactsPtr &contacts);
+  void OnContactUpdate(ConstContactsPtr &contacts);
 
 
 
